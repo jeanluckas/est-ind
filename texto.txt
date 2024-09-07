@@ -1,3 +1,4 @@
 Texto inicial
 Primeira alteração do arquivo de texto
 Segunda alteração do arquivo
+Terceira alteração do arquivo
